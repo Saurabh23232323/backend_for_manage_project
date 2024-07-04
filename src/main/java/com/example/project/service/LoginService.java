@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import com.example.project.entity.LoginEntity;
-import com.example.project.entity.repository.LoginRepository;
+import com.example.project.repository.LoginRepository;
 
 @Component
 public class LoginService {

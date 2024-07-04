@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 import com.example.project.entity.ProjectDetailsEntity;
 import com.example.project.entity.ProjectId;
-import com.example.project.entity.repository.ProjectDetailsRepository;
+import com.example.project.repository.ProjectDetailsRepository;
 
 @Component
 public class ProjectDetailsService {
